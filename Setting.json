@@ -1,0 +1,62 @@
+{
+    "api_settings": {
+        "file_input_settings": {
+            "always_use_txt": false,
+            "use_multiple_excel_files": false
+        },
+        "proxy_settings": {
+            "ask_for_proxy": true,
+            "default_proxy": ""
+        },
+        "user_agent_settings": {
+            "ask_for_user_agent": true,
+            "default_user_agent": "none"
+        },
+        "otp_settings": {
+            "ask_for_resend_count": true,
+            "default_resend_count": 1
+        },
+        "thread_settings": {
+            "ask_for_threads": true,
+            "default_threads": 20
+        }
+    },
+    "selenium_settings": {
+        "file_input_settings": {
+            "always_use_txt": false,
+            "use_multiple_excel_files": false
+        },
+        "proxy_settings": {
+            "ask_for_proxy": true,
+            "default_proxy": ""
+        },
+        "user_agent_settings": {
+            "ask_for_user_agent": true,
+            "default_user_agent": "none"
+        },
+        "otp_settings": {
+            "ask_for_resend_count": true,
+            "default_resend_count": 1
+        },
+        "thread_settings": {
+            "ask_for_threads": true,
+            "default_threads": 10
+        },
+        "browser_settings": {
+            "ask_for_browser": true,
+            "default_browser": "chrome"
+        },
+        "headless_settings": {
+            "ask_for_headless": true,
+            "default_headless": false
+        },
+        "route_settings": {
+            "ask_for_route": true,
+            "default_route": 0
+        },
+        "work_mode": {
+            "ask_for_mode": true,
+            "default_mode": 0
+        }
+    }
+}
